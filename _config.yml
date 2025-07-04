@@ -1,9 +1,9 @@
 title:              Zarpele Blog!
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+email:              guido.robertone@example.com
+description:        A straightforward blog written by a human being.
 author:             Guido F. Robertone
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://zarpele.github.io"
+baseurl:            "/"
+url:                "https://guidorobertone.github.io/zarpele"
 
 # Social Profiles
 twitter_username:   zarpele
